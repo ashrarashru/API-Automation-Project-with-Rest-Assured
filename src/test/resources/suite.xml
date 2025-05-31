@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name = "Daily Finance Management System">
+
+    <test name = "User Registration">
+        <classes>
+            <class name="TestRunner.UserRegistrationTestRunner"> </class>
+        </classes>
+    </test>
+
+    <test name = "Login">
+        <classes>
+            <class name="TestRunner.LoginTestRunner"> </class>
+        </classes>
+    </test>
+
+    <test name = "User Activity">
+        <classes>
+            <class name="TestRunner.UserTestRunner"> </class>
+        </classes>
+    </test>
+
+</suite>
